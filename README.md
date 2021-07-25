@@ -1,2 +1,2 @@
-# laraseven
-Lara seven repository for practice 
+# laravel8
+Laravel 8 repository for practice 
